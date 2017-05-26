@@ -1,0 +1,31 @@
+
+
+body{
+	background-color:#A9D0F5;
+}
+
+header{
+	text-align: center;
+}
+
+
+#article {
+	text-align: center;
+	margin: auto;
+	width: 40%;
+	
+}
+section {
+	float: left;
+	text-align:center;
+	width: 30%;
+	
+}
+aside{
+	width:30%;
+	float:right;
+	text-align:center;
+}
+.datos{
+	padding: 20px;
+}
