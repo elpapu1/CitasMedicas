@@ -35,3 +35,27 @@ aside > img{
 	width: 350px;
 
 }
+#letras{
+	font-size:30px;
+}
+
+#mini{
+	position:relative;
+	bottom:119px;
+	left:70px
+}
+#freddy{
+	position:relative;
+	bottom:135px;
+}
+
+.imagen {
+	
+}
+.imagen {
+	position: relative;
+	bottom:110px;
+	color:#fff;
+	color: black;
+	font-weight:bold;
+}
