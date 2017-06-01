@@ -2,6 +2,7 @@
 
 body{
 	background-color:#A9D0F5;
+	background-image: url("hospital-background-0.jpg");
 }
 
 header{
@@ -28,4 +29,9 @@ aside{
 }
 .datos{
 	padding: 20px;
+}
+aside > img{
+	height: 295px;
+	width: 350px;
+
 }
